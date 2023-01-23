@@ -9,7 +9,7 @@ console.log(typeof numberOfToppings); //string
 let str = `${pizzaPlace} had ${numberOfToppings} different pizza toppings`
 console.log(str);
 
-if (numberOfToppings < 20) {
+if (numberOfToppings < 10) {
   console.log("Quality, not quantity");
 }
 else if (numberOfToppings > 10) {
