@@ -12,7 +12,7 @@ console.log(str);
 if (numberOfToppings < 10) {
   console.log("Quality, not quantity");
 }
-else if (numberOfToppings > 10) {
+else if (numberOfToppings >= 10) {
   console.log("A whole lot of pizza");
 }
 for (let i = 2; i <= 10; i++) {
