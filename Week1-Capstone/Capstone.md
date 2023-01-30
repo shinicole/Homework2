@@ -37,7 +37,10 @@
   ### From the Homepage you can navigate to the contact page, about us page, member's search page. From the member's search page you can navigate to the different profiles by clicking on their pages.
 
 ## Create and provide link to story map created in Mural
-file:///C:/Users/SHIVON/Downloads/Untitled_2023-01-30_04-36-10.pdf
+
+[StoryMap.pdf](https://github.com/shinicole/Homework2/files/10532406/StoryMap.pdf)
+
+
 ## Research:
 
    ## List Applications Researched: (links to websites / applications)
@@ -57,9 +60,15 @@ file:///C:/Users/SHIVON/Downloads/Untitled_2023-01-30_04-36-10.pdf
    3. It will be free to the users.
 
 ## Create wireframes and user flow diagram for at least 4 pages including Home, About, Contact Us and one other page demonstrating the specific functionality of your capstone's purpose (add link to wireframes one wireframe for each page with a min of 4 pages)
+![SCREEN3@1x](https://user-images.githubusercontent.com/97561103/215390026-f7efc7dd-11b2-4508-8416-46eb1e61b017.png)
+![Screen4@1x](https://user-images.githubusercontent.com/97561103/215390060-869c6ada-0a08-4602-a2cb-32d68ad93c97.png)
+![Screen2@1x](https://user-images.githubusercontent.com/97561103/215390089-11436a43-6d0f-43a8-b278-ff32329f365e.png)
 
-  
+  ![Screen 1@1x](https://user-images.githubusercontent.com/97561103/215390105-6a61cbf3-e902-4df7-bf14-102c94404796.png)
+
 ## Create and provide link to User Flow
+
+[UserFlow2.pdf](https://github.com/shinicole/Homework2/files/10532378/UserFlow2.pdf)
 
 
 ## Create and provide link to SWOT Analysis
