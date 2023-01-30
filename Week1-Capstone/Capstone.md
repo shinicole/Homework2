@@ -37,7 +37,7 @@
   ### From the Homepage you can navigate to the contact page, about us page, member's search page. From the member's search page you can navigate to the different profiles by clicking on their pages.
 
 ## Create and provide link to story map created in Mural
-
+file:///C:/Users/SHIVON/Downloads/Untitled_2023-01-30_04-36-10.pdf
 ## Research:
 
    ## List Applications Researched: (links to websites / applications)
@@ -58,6 +58,7 @@
 
 ## Create wireframes and user flow diagram for at least 4 pages including Home, About, Contact Us and one other page demonstrating the specific functionality of your capstone's purpose (add link to wireframes one wireframe for each page with a min of 4 pages)
 
+  
 ## Create and provide link to User Flow
 
 
