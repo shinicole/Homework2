@@ -9,8 +9,8 @@
 ## What do I want on each page? (text / pics / images / navigation)
 ### The homepage will have pictures and details about my business and how it works. It will include links to the contact us page, search profiles page, and the footer. The profile page will pictures of the current members and their pictures. I will set up one profile page where you will see that member's profile and their details.
 
-###   What do I want the functionality of each page to be?
-## Each page will be user friendly and easy to navigate through the website.
+##   What do I want the functionality of each page to be?
+### Each page will be user friendly and easy to navigate through the website.
 
 ##  What is the purpose of my application?
 ### The purpose of my application is to create a safe space for women who are looking for genuine friendships.
@@ -44,7 +44,7 @@
    ### Bumble.com
 
    ## List what you like about each site:
-   ## I like that bumble provides an option for people who are looking for friends, a dating section, and a networking section.
+   ### I like that bumble provides an option for people who are looking for friends, a dating section, and a networking section.
 
    ## List what you do not like about each site:
    1. The swiping left or right on the profiles in the friendship section.
