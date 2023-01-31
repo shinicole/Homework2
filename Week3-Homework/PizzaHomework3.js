@@ -1,21 +1,22 @@
 let pizzaToppings = ['chicken', 'pineapples', 'basil', 'cheese']
 
 function greetCustomer() {
-  console.log(`Welcome to Pizza Palace, our toppings are: ${pizzaToppings);
+  console.log(`Welcome to Pizza Palace, our toppings are: ${pizzaToppings}`);
 }
 
-function getPizzaOrder( size, crust, toppings) {
+function getPizzaOrder( size, crust, ...toppings) {
   console.log(`One ${size} ${crust} crust pizza with ${pizzaToppings} coming up!`);
   return [size, crust, toppings];
 }
 
-function preparePizza(pizzaDetails) {
+function preparePizza([size, crust, ...toppings]) {
   const pizza = {
-    size: pizzaDetails[0],
-    crust: pizzaDetails[1],
-    toppings: pizzaDetails[2],
+    size: size,
+    crust: crust,
+    toppings: toppings,
   };
-  console.log(`Cooking ${pizza.size} ${pizza.crust} crust pizza with ${pizza.toppings);
+
+  console.log(`Cooking ${pizza.size} ${pizza.crust} crust pizza with ${pizza.toppings}`);
   return pizza
 }
 function servePizza(pizza) {
@@ -23,6 +24,4 @@ console.log(`Order up! Here's your ${pizza.size} ${pizza.crust} crust pizza with
 return pizza
 }
 greetCustomer()
-const pizzaOrder = getPizzaOrder ("small", "thin","chicken", "onions", "cheese")
-const pizza = preparePizza(pizzaOrder)
-servePizza(pizza)
+servePizza(preparePizza(getPizzaOrder("Large", "thick", "bacon", "chicken", "cheese",)));
