@@ -9,8 +9,8 @@
 ## What do I want on each page? (text / pics / images / navigation)
 ### The homepage will have pictures and details about my business and how it works. It will include links to the contact us page, search profiles page, and the footer. The profile page will pictures of the current members and their pictures. I will set up one profile page where you will see that member's profile and their details.
 
-###   What do I want the functionality of each page to be?
-## Each page will be user friendly and easy to navigate through the website.
+##   What do I want the functionality of each page to be?
+### Each page will be user friendly and easy to navigate through the website.
 
 ##  What is the purpose of my application?
 ### The purpose of my application is to create a safe space for women who are looking for genuine friendships.
@@ -38,13 +38,16 @@
 
 ## Create and provide link to story map created in Mural
 
+[StoryMap.pdf](https://github.com/shinicole/Homework2/files/10532406/StoryMap.pdf)
+
+
 ## Research:
 
    ## List Applications Researched: (links to websites / applications)
    ### Bumble.com
 
    ## List what you like about each site:
-   ## I like that bumble provides an option for people who are looking for friends, a dating section, and a networking section.
+   ### I like that bumble provides an option for people who are looking for friends, a dating section, and a networking section.
 
    ## List what you do not like about each site:
    1. The swiping left or right on the profiles in the friendship section.
@@ -57,8 +60,15 @@
    3. It will be free to the users.
 
 ## Create wireframes and user flow diagram for at least 4 pages including Home, About, Contact Us and one other page demonstrating the specific functionality of your capstone's purpose (add link to wireframes one wireframe for each page with a min of 4 pages)
+![SCREEN3@1x](https://user-images.githubusercontent.com/97561103/215390026-f7efc7dd-11b2-4508-8416-46eb1e61b017.png)
+![Screen4@1x](https://user-images.githubusercontent.com/97561103/215390060-869c6ada-0a08-4602-a2cb-32d68ad93c97.png)
+![Screen2@1x](https://user-images.githubusercontent.com/97561103/215390089-11436a43-6d0f-43a8-b278-ff32329f365e.png)
+
+  ![Screen 1@1x](https://user-images.githubusercontent.com/97561103/215390105-6a61cbf3-e902-4df7-bf14-102c94404796.png)
 
 ## Create and provide link to User Flow
+
+[UserFlow2.pdf](https://github.com/shinicole/Homework2/files/10532378/UserFlow2.pdf)
 
 
 ## Create and provide link to SWOT Analysis
