@@ -22,11 +22,11 @@ div {
 }
 
 #introPic {
-  float: left;
+  float: center;
 }
 
 #bio {
-  float: right;
+  float: center;
 }
 
 #bio > li {

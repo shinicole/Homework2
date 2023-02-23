@@ -1,4 +1,4 @@
-[
+const data = [
   {
     "userId": 1,
     "id": 1,
@@ -1204,4 +1204,4 @@ const todos = response.data;
   const userTodos = todos.filter(todo => todo.userId === 9);
   const incompleteTodos = userTodos.filter(todo => !todo.completed);
   console.log(`User 9's incomplete tasks: ${incompleteTodos.length}`);
-});
+

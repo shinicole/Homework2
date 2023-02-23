@@ -1,4 +1,4 @@
-[
+const data = [
   {
     "id": 1,
     "name": "Leanne Graham",
@@ -230,12 +230,9 @@
     }
   }
 
-const data = response.data;
-    const phoneNumbers = data.map(Shivon => Shivon.phone);
-    console.log("Phone Numbers: ", phoneNumbers);
-    const websiteAndEmailPairs = data.map(user => [user.website, user.email]);
-    console.log("Website and Email Pairs: ", websiteAndEmailPairs);
-  })
-  .catch(error => {
-    console.error(error);
-  });
+
+  let phoneNumbers = data.map(item => item.phone);
+  console.log(phoneNumbers);
+
+  let websiteAndEmailPairs = data.map(user => [user.website, user.email]);
+  console.log(websiteAndEmailPairs);
